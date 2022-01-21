@@ -4,6 +4,9 @@ This project is demonstration of the ability to use class components in React ap
 
 Technologies used in this project:
 
-create-react-app
-bootstrap
-webgradients #Note: use of !important after some of the css properties.
+1. create-react-app
+2. bootstrap
+3. webgradients
+4. React Hooks and Forms
+
+#Note: use of !important after some of the css properties. 4. React Hooks and Forms
