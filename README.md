@@ -5,7 +5,7 @@ This project is demonstration of the ability to use functional components in Rea
 Technologies used in this project:
 
 1. create-react-app
-2. bootstrap
+2. bootstrap, bootstrap shadows
 3. webgradients
 4. React Hooks and Forms
 
